@@ -1,4 +1,4 @@
-# Dynamic Policy-Driven Adaptive Multi-Instance Learning for Whole Slide Image Classification
+# GraphMamba: Whole Slide Image Classification Meets Graph-driven Selective State Space Model
 
 
 [Tingting Zheng](https://scholar.google.com/citations?user=AJ5zl-wAAAAJ&hl=zh-CN), [Hongxun Yao](https://scholar.google.com/citations?user=aOMFNFsAAAAJ), [Sicheng Zhao](https://scholar.google.com/citations?user=LJiQRJIAAAAJ&hl=zh-CN&oi=ao)., 
